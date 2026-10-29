@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #222222;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  color: #0b6e4f;
+}
+
+.entry {
+  padding: 12px;
+  color: #222222;
+  background-color: #f3f8f6;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+button {
+  font: inherit;
+  padding: 10px 16px;
+  background-color: #0b6e4f;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
